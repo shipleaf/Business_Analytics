@@ -1,0 +1,9 @@
+pandas
+numpy 
+matplotlib
+seaborn
+scipy
+scikit-learn
+plotly
+nbformat>=4.2.0
+tqdm
