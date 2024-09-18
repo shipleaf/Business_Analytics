@@ -7,3 +7,5 @@ scikit-learn
 plotly
 nbformat>=4.2.0
 tqdm
+imblearn
+xgboost
