@@ -5,7 +5,7 @@ seaborn
 scipy
 scikit-learn
 plotly
-nbformat>=4.2.0
+nbformat>=4.2.0 
 tqdm
 imblearn
 xgboost
