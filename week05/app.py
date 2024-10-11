@@ -5,7 +5,7 @@ import pandas as pd
 import plotly.express as px
 
 # Sample DataFrame (replace this with your actual df1)
-df1 = pd.read_csv('./data/PurchasesFINAL12312016.csv')
+df1 = pd.read_csv('../dataset/PurchasesFINAL12312016.csv')
 
 # df1 = pd.DataFrame(data)
 
